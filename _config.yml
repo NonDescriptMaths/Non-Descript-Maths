@@ -63,7 +63,7 @@ author:
   bio    : "Studying a PhD in computational data science and statistics at the University of Bristol. Specicialising in adversarial attacks on deep learning algorithms through information geometry."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
