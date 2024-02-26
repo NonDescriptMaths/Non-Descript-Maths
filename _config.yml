@@ -62,15 +62,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Studying a PhD in computational data science and statistics at the University of Bristol. Specicialising in adversarial attacks on deep learning algorithms through information geometry."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NonDescriptMaths"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
