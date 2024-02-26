@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kieran Morris"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpeg"
   bio    : "Studying a PhD in computational data science and statistics at the University of Bristol. Specicialising in adversarial attacks on deep learning algorithms through information geometry."
   links:
     - label: "LinkedIn"
