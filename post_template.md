@@ -8,3 +8,10 @@ tags:
   - update
 ---
 
+hello world! this is my template for my blog posts YIPEPEEEEEE
+
+# Now I can write BIG
+
+## lEss big
+
+### less less big
